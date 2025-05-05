@@ -1,0 +1,1 @@
+# Butce_Takip_Yonetimi_Hesap_Silme_Politikasi
