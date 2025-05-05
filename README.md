@@ -18,4 +18,4 @@ Geliştirici: Berk Gündüz
 E-posta: berkgunceng@gmail.com
 
 ## İletişim
-Ek sorularınız için erkgunceng@gmail.com adresine ulaşabilirsiniz.
+Ek sorularınız için berkgunceng@gmail.com adresine ulaşabilirsiniz.
